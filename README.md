@@ -1,12 +1,18 @@
 ##### Coffee Shop Website #####
+
 Welcome to the Coffee Shop Website repository! This is a simple front-end website for a coffee shop created using HTML and CSS. The website includes a menu section, a feedback section, and a contact section.
+
 ![Screenshot 2023-09-13 232148](https://github.com/Manjeetrawat28/Coffeeshopwebsite/assets/88391007/222d55d3-8675-454f-8f96-4100a05f4566)
 
 
 **Features**
-###Menu:### Browse our coffee and snacks menu with descriptions and prices.
+
+###Menu:### Browse our coffee and snacks menu with descriptions and prices
+
 ###Feedback: ###Leave your feedback and comments about your experience.
+
 ###Contact:### Find our contact information and get in touch with us.
+
 
 
 
